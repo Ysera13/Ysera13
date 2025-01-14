@@ -1,20 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yushan Zhao</h1>
 
-
 <h3 align="center">A lusty student keen on SLAM from China</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysera13&label=Profile%20views&color=0e75b6&style=flat" alt="ysera13" /> </p>
-ysera13
-
-（此段代码为一个图片标签，其中包含了一个来自 Komarev 的 GitHub 个人资料浏览量统计图片，显示用户名为 ysera13 的浏览量。）
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ysera13" alt="ysera13" /></a> </p>
 ysera13
-
-（注：此段文字为 HTML 代码，用于在网页上显示一个指向特定链接的图片，其中包含一个指向 GitHub 用户 ysera13 的个人成就徽章的链接。由于其内容为代码，因此翻译时保持原样。）
-
 
 - 🌱 I’m currently learning **SLAM,pcl,Nav2,BT,ros2,RM,machine learning**
 
