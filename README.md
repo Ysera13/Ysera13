@@ -9,16 +9,11 @@
 - 📫 How to reach me **189761560@qq.com**
 - 📄 Know about my experiences [Now I'm an RMer](Now I'm an RMer)
 
-- ⚡ Fun fact **visi**
--⚡Fun fact visi * * *
-
-
 <h3 align="left">Connect with me:</h3>
 与我联系：
 
-<p align="left"> < p align =“左”>
+<p align="left"> 
 <a href="https://www.youtube.com/c/ysera13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ysera13" height="30" width="40" /></a>
-ysera13
 
 </p>
 
