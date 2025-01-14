@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br>Hi 👋, I'm Yushan Zhao,A lusty student majoring AI:computer:<br>
+  <br>I'm Yushan Zhao,A lusty student majoring AI:computer:<br>
   <br>
  </abc>
 </h2>
@@ -12,7 +12,7 @@
 - 🤝 I’m looking for help with **computer vision**
 - 📝 I regularly write articles on [CSDN,FlowUS](CSDN,FlowUS)
 - 📫 How to reach me **189761560@qq.com**
-- 📄 Know about my experiences [Now I'm an RMer](Now I'm an RMer)
+- 📄 Know about my experiences.Now I'm an RMer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
