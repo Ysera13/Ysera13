@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Yushan Zhao,A lusty student majoring AI</h1>
-
+<h2 align="left">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br>Hi 👋, I'm Yushan Zhao,A lusty student majoring AI:computer:<br>
+  <br>
+ </abc>
+</h2>
 <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJpejVnM2FuZWUzcWpjMXM0N3VzZWk3czhhd2E3dTEycW94bTdyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zub9Mwuj5Ss514yATd/giphy.gif" alt="Coder GIF" width="500">
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
