@@ -1,31 +1,16 @@
-<h1 align="center">Hi 👋, I'm Yushan Zhao</h1>
-
-<h3 align="center">A lusty student keen on SLAM from China</h3>
+<h1 align="center">Hi 👋, I'm Yushan Zhao,A lusty student majoring AI</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysera13&label=Profile%20views&color=0e75b6&style=flat" alt="ysera13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ysera13" alt="ysera13" /></a> </p>
-ysera13
+<img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJpejVnM2FuZWUzcWpjMXM0N3VzZWk3czhhd2E3dTEycW94bTdyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zub9Mwuj5Ss514yATd/giphy.gif" alt="Coder GIF" width="500">
 
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🌱 I’m currently learning **SLAM,pcl,Nav2,BT,ros2,RM,machine learning**
-
-
-
 - 🤝 I’m looking for help with **computer vision**
-
-
-
 - 📝 I regularly write articles on [CSDN,FlowUS](CSDN,FlowUS)
-
-
-
 - 📫 How to reach me **189761560@qq.com**
-
-
-
 - 📄 Know about my experiences [Now I'm an RMer](Now I'm an RMer)
-
-
 
 - ⚡ Fun fact **visi**
 -⚡Fun fact visi * * *
